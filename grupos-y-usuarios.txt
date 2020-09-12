@@ -1,0 +1,7 @@
+adduser lester
+adduser asmeth
+adduser astrid
+groupadd Casa
+usermod -g Casa lester
+usermod -g Casa asmeth
+usermod -g Casa astrid
